@@ -1,0 +1,13 @@
+C:\Users\harre\source\repos\Lab_9_get_to_know\Lab_9_get_to_know\bin\Debug\netcoreapp3.1\Lab_9_get_to_know.exe
+C:\Users\harre\source\repos\Lab_9_get_to_know\Lab_9_get_to_know\bin\Debug\netcoreapp3.1\Lab_9_get_to_know.deps.json
+C:\Users\harre\source\repos\Lab_9_get_to_know\Lab_9_get_to_know\bin\Debug\netcoreapp3.1\Lab_9_get_to_know.runtimeconfig.json
+C:\Users\harre\source\repos\Lab_9_get_to_know\Lab_9_get_to_know\bin\Debug\netcoreapp3.1\Lab_9_get_to_know.runtimeconfig.dev.json
+C:\Users\harre\source\repos\Lab_9_get_to_know\Lab_9_get_to_know\bin\Debug\netcoreapp3.1\Lab_9_get_to_know.dll
+C:\Users\harre\source\repos\Lab_9_get_to_know\Lab_9_get_to_know\bin\Debug\netcoreapp3.1\Lab_9_get_to_know.pdb
+C:\Users\harre\source\repos\Lab_9_get_to_know\Lab_9_get_to_know\obj\Debug\netcoreapp3.1\Lab_9_get_to_know.csprojAssemblyReference.cache
+C:\Users\harre\source\repos\Lab_9_get_to_know\Lab_9_get_to_know\obj\Debug\netcoreapp3.1\Lab_9_get_to_know.AssemblyInfoInputs.cache
+C:\Users\harre\source\repos\Lab_9_get_to_know\Lab_9_get_to_know\obj\Debug\netcoreapp3.1\Lab_9_get_to_know.AssemblyInfo.cs
+C:\Users\harre\source\repos\Lab_9_get_to_know\Lab_9_get_to_know\obj\Debug\netcoreapp3.1\Lab_9_get_to_know.csproj.CoreCompileInputs.cache
+C:\Users\harre\source\repos\Lab_9_get_to_know\Lab_9_get_to_know\obj\Debug\netcoreapp3.1\Lab_9_get_to_know.dll
+C:\Users\harre\source\repos\Lab_9_get_to_know\Lab_9_get_to_know\obj\Debug\netcoreapp3.1\Lab_9_get_to_know.pdb
+C:\Users\harre\source\repos\Lab_9_get_to_know\Lab_9_get_to_know\obj\Debug\netcoreapp3.1\Lab_9_get_to_know.genruntimeconfig.cache
